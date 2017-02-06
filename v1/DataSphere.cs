@@ -22,8 +22,8 @@ public class DataSphere : MonoBehaviour {
 	public void CreateDataPoint(float yaw, float pitch)
 	{
 		var dataPosition = new Vector3 (Mathf.Sin (yaw * Mathf.PI) * Mathf.Cos (pitch * Mathf.PI), 
-			                   Mathf.Sin (pitch * Mathf.PI),
-			                   Mathf.Cos (yaw * Mathf.PI) * Mathf.Cos (pitch * Mathf.PI));
+			                   	Mathf.Sin (pitch * Mathf.PI),
+			                        Mathf.Cos (yaw * Mathf.PI) * Mathf.Cos (pitch * Mathf.PI));
 		system.Emit (new ParticleSystem.EmitParams () {
 			position = dataPosition,
 			startColor = new Color((1+dataPosition.x)*0.5f,(1+dataPosition.y)*0.5f,(1+dataPosition.z)*0.5f)
