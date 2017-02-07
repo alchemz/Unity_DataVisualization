@@ -1,18 +1,18 @@
 ![gif](http://i.imgur.com/NxjZcWI.gif)
 
-!- Unity Official Tutorial:
+- Unity Official Tutorial:
   https://unity3d.com/learn/tutorials/topics/graphics/gentle-introduction-shaders
 
-!- catlikecoding.com:
+- catlikecoding.com:
   http://catlikecoding.com/unity/tutorials/rendering/part-2/
   
-!- Taras Leskiv:
+- Taras Leskiv:
   https://unity3d-shader-programming.zeef.com/taras.leskiv
   
-!- Keijiro:
+- Keijiro:
   https://github.com/keijiro/KvantSpray
 
-!- And more:
+- And more:
   https://github.com/antoinefournier/XParticle
 
   https://github.com/antoinefournier/XParticle
