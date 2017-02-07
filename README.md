@@ -1,4 +1,4 @@
-![gif](http://i.imgur.com/NxjZcWI.gif)
+![gif](http://i.imgur.com/m2tEB7M.gif)
 
 - Unity Official Tutorial:
   https://unity3d.com/learn/tutorials/topics/graphics/gentle-introduction-shaders
