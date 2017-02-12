@@ -1,7 +1,7 @@
 The Nucleon
 
 ![gif](http://i.imgur.com/m2tEB7M.gif)
-![gif](http://i.imgur.com/fbWDmwz.gif)
+![gif](http://i.imgur.com/lxLUzaR.gif)
 
 - Unity Official Tutorial:
   https://unity3d.com/learn/tutorials/topics/graphics/gentle-introduction-shaders
