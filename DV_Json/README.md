@@ -1,1 +1,4 @@
-- [x] Use Json, to pass the data from another client to Unity and visualize the data point with particles
+- [x] Use Json, to pass the data from another client to Unity 
+- [x] Visualize the data point with particles
+- [ ] Modify the particle system to be multi-dimensional (collaborate with Goddess)
+- [ ] Format the data from python end (collaborate with Data Monk)
