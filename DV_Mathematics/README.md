@@ -1,1 +1,1 @@
-- [*]  Plot mathematical graphs and models in Unity
+- []  Plot mathematical graphs and models in Unity
