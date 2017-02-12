@@ -1,0 +1,33 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     2016 MB
+    Driver:   21.21.13.7653
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ling\Documents\DataVisualization\DV_Mathematics\math1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ling\Documents\DataVisualization\DV_Mathematics\math1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ling\Documents\DataVisualization\DV_Mathematics\math1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ling\Documents\DataVisualization\DV_Mathematics\math1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ling\Documents\DataVisualization\DV_Mathematics\math1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ling\Documents\DataVisualization\DV_Mathematics\math1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ling\Documents\DataVisualization\DV_Mathematics\math1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Ling\Documents\DataVisualization\DV_Mathematics\math1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Ling\Documents\DataVisualization\DV_Mathematics\math1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Ling\Documents\DataVisualization\DV_Mathematics\math1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Ling\Documents\DataVisualization\DV_Mathematics\math1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Ling\Documents\DataVisualization\DV_Mathematics\math1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: C:\Users\Ling\Documents\DataVisualization\DV_Mathematics\math1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Ling\Documents\DataVisualization\DV_Mathematics\math1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.227248 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 15f4 -> priority: 1 
+  Thread -> id: 1fa0 -> priority: 1 
+  Thread -> id: b4c -> priority: 1 
