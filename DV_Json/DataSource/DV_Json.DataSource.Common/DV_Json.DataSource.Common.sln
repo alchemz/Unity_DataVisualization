@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{FB8C00CF-E1B4-48E1-A0B3-ED689F8C9CC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BF125543-B40D-40E5-861A-207798F6E3A2}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+		..\global.json = ..\global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "DV_Json.DataSource.Common", "src\DV_Json.DataSource.Common\DV_Json.DataSource.Common.xproj", "{4C11900A-B435-424E-8828-64DCA6391C4F}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "DV_Json.DataSource.Generator", "..\DV_Json.DataSource.Generator\DV_Json.DataSource.Generator.xproj", "{71B3F27B-7DA9-4373-A21F-7A35DB18E6BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C11900A-B435-424E-8828-64DCA6391C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C11900A-B435-424E-8828-64DCA6391C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C11900A-B435-424E-8828-64DCA6391C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C11900A-B435-424E-8828-64DCA6391C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B3F27B-7DA9-4373-A21F-7A35DB18E6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B3F27B-7DA9-4373-A21F-7A35DB18E6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B3F27B-7DA9-4373-A21F-7A35DB18E6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B3F27B-7DA9-4373-A21F-7A35DB18E6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4C11900A-B435-424E-8828-64DCA6391C4F} = {FB8C00CF-E1B4-48E1-A0B3-ED689F8C9CC7}
+		{71B3F27B-7DA9-4373-A21F-7A35DB18E6BA} = {FB8C00CF-E1B4-48E1-A0B3-ED689F8C9CC7}
+	EndGlobalSection
+EndGlobal
