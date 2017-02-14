@@ -1,1 +1,3 @@
-*.rb linguist-language=CSharp
+*.ps1 linguist-language=csharp
+*.psm1 linguist-language=csharp
+
