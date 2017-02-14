@@ -1,0 +1,22 @@
+src/main/resources/static/* linguist-vendored
+project-docs/* linguist-documentation
+*.rb linguist-language=csharp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
