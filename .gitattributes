@@ -1,6 +1,6 @@
 src/main/resources/static/* linguist-vendored
 project-docs/* linguist-documentation
-*.rb linguist-language=Java
+*.rb linguist-language=csharp
 
 
 
