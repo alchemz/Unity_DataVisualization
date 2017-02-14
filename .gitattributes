@@ -1,5 +1,5 @@
-*.ps1 linguist-language=csharp
-*.psm1 linguist-language=csharp
+*.ps1 linguist-language=Csharp
+*.psm1 linguist-language=Csharp
 
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
