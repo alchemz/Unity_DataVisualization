@@ -73,22 +73,7 @@ public class Fractal : MonoBehaviour {
 			Initialize (this, i);
 			}
 		}
-//		yield return new WaitForSeconds (0.5f);
-//		new GameObject ("FractalChild").AddComponent<Fractal>().
-//		Initialize(this, Vector3.up, Quaternion.identity);
-//		yield return new WaitForSeconds (0.5f);
-//		new GameObject ("FractalChild").AddComponent<Fractal>().
-//		Initialize(this, Vector3.right, Quaternion.Euler(0f, 0f, -90f));
-//		yield return new WaitForSeconds (0.5f);
-//		new GameObject ("FractalChild").AddComponent<Fractal>().
-//		Initialize(this, Vector3.left, Quaternion.Euler(0f, 0f, 90f));
-//		yield return new WaitForSeconds (0.5f);
-//		new GameObject ("FractalChild").AddComponent<Fractal>().
-//		Initialize(this, Vector3.down, Quaternion.Euler(180f, 0f, 0f));
 	}
-//	private void Initialize(Fractal parent, 
-//							Vector3 direction,
-//							Quaternion orientation){
 	private void Initialize(Fractal parent, int childIndex)
 	{
 		maxTwist = parent.maxTwist;
@@ -102,8 +87,6 @@ public class Fractal : MonoBehaviour {
 
 		transform.parent = parent.transform;
 		transform.localScale = Vector3.one * childScale;
-//		transform.localPosition = direction * (0.5f + 0.5f * childScale);
-//		transform.localRotation = orientation;
 		transform.localPosition =
 			childDirections [childIndex] * (0.5f + 0.5f * childScale);
 		transform.localRotation =
