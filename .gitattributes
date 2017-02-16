@@ -1,5 +1,5 @@
-special-vendored-path/* linguist-vendored
-DefaultWsdlHelpGenerator.aspx  linguist-vendored=false
+DV_Mathematics/math1_Data/Mono/etc/mono/1.0/* linguist-vendored
+
 
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
